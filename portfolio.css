@@ -1,6 +1,15 @@
+.main{
+    margin-top:10px;
+}
+
+.contact{
+    margin-top:20px;
+    font-size:20px;
+    color:RosyBrown;
+    font-weight:bold;
+}
 body{
     background:beige;
-    margin-top:10px;
 
     img{
         margin-top:0px;
@@ -13,4 +22,5 @@ body{
         color:RosyBrown;
         font-weight:bold;
     }
+
 }
