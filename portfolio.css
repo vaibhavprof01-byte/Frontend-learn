@@ -1,0 +1,16 @@
+body{
+    background:beige;
+    margin-top:10px;
+
+    img{
+        margin-top:0px;
+        width:200px;
+        height:auto;
+    }
+
+    p{
+        font-size:20px;
+        color:RosyBrown;
+        font-weight:bold;
+    }
+}
