@@ -8,6 +8,16 @@
     color:RosyBrown;
     font-weight:bold;
 }
+.btn{
+    background:beige;
+    color:#222222;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+    border-radius:10px;
+    border:4px solid rosybrown;
+}
 body{
     background:beige;
 
