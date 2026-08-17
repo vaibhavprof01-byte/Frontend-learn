@@ -1,5 +1,5 @@
 .main{
-    margin-top:10px;
+    margin:0px;
 }
 
 .contact{
@@ -19,18 +19,31 @@
     border:1px solid rosybrown;
 }
 body{
-    background:beige;
+    background:burlywood;
+    color:#fffff0;
 
-    img{
-        margin-top:0px;
-        width:200px;
-        height:auto;
-    }
+}
+img{
+    margin: 10px;
+    width: 250px;
+    border-radius: 50%;
+    border:4px solid sienna;
+}
+p{
+    font-size:30px;
+    color:whitesmoke;
+    font-weight:bold;
+    text-shadow:0 0 1px black;
+}
+#ame{
+    display: block;
+    color:whitesmoke;
+}
 
-    p{
-        font-size:20px;
-        color:RosyBrown;
-        font-weight:bold;
-    }
-
+.card{
+    border: 4px solid sienna;
+    display:flex; 
+    color:whitesmoke;
+    flex-direction: row;
+    background-color:burlywood;
 }
