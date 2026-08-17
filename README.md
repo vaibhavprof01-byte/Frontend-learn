@@ -1,0 +1,1 @@
+This is my project which is simply a portfolio not much large but learning the frontend lang and commiting step by step whatever i learn
