@@ -7,7 +7,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     color:antiquewhite;
-    text-shadow: 0 0 1px #222222;
+    text-shadow: 0 0 3px #222222;
 }
 
 #prf{
@@ -37,8 +37,7 @@ body{
 
 }
 
-#pari{
-    color:#89CFF0;
-    text-shadow: 0 0 1px #222222;
-
+p,ul{
+    color:whitesmoke;
+    text-shadow: 0 0 2px #222222;
 }
